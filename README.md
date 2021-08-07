@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ravalpreet2003
-- 👀 I’m interested in learning C, C++ and Java
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in learned C++
+- 🌱 I’m currently learning UI?UX design
+- 📫 How to reach me on 9925005919
 
 <!---
 ravalpreet2003/ravalpreet2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
